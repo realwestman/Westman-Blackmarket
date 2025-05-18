@@ -18,4 +18,4 @@ ESX
 - Drag & drop
 - Optimized (0.00ms)
 
-Note: I'll not give any support on this resource.
+OBS:Entire front-end and back-end will be rewritten — Don't download it.
